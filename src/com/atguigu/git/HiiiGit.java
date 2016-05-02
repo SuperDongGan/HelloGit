@@ -6,6 +6,7 @@ public class HiiiGit {
 		System.out.println("adaf");
 		System.out.println("Hello Eclipse");
 		System.out.println("GitHub update");
+		System.out.println("GitHub update02");
 	}
 	
 }
